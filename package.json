@@ -1,5 +1,6 @@
 {
   "name": "myweb",
+  "homepage": "https://monto8790.github.io/myproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
